@@ -7,7 +7,7 @@ The goal of this dashboard is to help business stakeholders analyze sales, cost,
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 
 
