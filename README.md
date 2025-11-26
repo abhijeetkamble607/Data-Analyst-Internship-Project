@@ -61,5 +61,7 @@ The goal of this dashboard is to help business stakeholders analyze sales, cost,
 - **Mapbox** for geographic visualizations
 
 
+👉 **Download the Tableau file (.twbx) from the Releases section:**  
+https://github.com/abhijeetkamble607/supply-chain-dashboard-tableau-excel/releases/latest
 
 
