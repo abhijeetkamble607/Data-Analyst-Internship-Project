@@ -3,3 +3,4 @@
 =======
 *.twbx filter=lfs diff=lfs merge=lfs -text
 >>>>>>> d5f78a0c8eb71d553e25a41354f4968d5e666c91
+*.pbix filter=lfs diff=lfs merge=lfs -text
